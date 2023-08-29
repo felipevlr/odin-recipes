@@ -1,0 +1,16 @@
+.container {
+    border-style: solid;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    font-family: "Times New Roman", serif;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+}
