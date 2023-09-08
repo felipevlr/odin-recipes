@@ -1,10 +1,9 @@
 .container {
-    border-style: solid;
-    margin-left: 250px;
-    margin-right: 250px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    border: 5px solid white;
     padding: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 7%;
     font-family: "Times New Roman", serif;
 }
 
