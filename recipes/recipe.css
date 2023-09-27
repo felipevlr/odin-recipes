@@ -1,0 +1,38 @@
+/*CSS file for all recipes pages */
+
+.container {
+    border: 5px solid white;
+    padding: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 7%;
+    margin-bottom: 15%;
+    border-radius: 10px;
+    font-family: "Times New Roman", serif;
+    background-color: #5200ffe6;
+    border-color: #5200ffe6;
+    color: white;
+}
+
+.image {
+    margin: auto;
+    display: block;
+}
+
+.link {
+    color: white;
+    text-align: center;
+    display: block;
+}
+
+.line {
+    border-bottom: 2px solid aquamarine;
+}
+
+.space {
+    padding: 1px;
+}
+
+h1 {
+    text-align: center;
+}
