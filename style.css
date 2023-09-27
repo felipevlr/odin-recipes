@@ -1,0 +1,28 @@
+.container {
+    border: 5px solid white;
+    padding: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 7%;
+    border-radius: 10px;
+    font-family: "Times New Roman", serif;
+    background-color: #5200ffe6;
+    border-color: #5200ffe6;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.line {
+    border-bottom: 2px solid aquamarine;
+}
+
+.space {
+    padding: 1px;
+}
