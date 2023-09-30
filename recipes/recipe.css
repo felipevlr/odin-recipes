@@ -1,5 +1,9 @@
 /*CSS file for all recipes pages */
 
+* {
+    box-sizing: border-box;
+}
+
 .container {
     border: 5px solid white;
     padding: 30px;
